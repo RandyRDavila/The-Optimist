@@ -10,10 +10,6 @@ The *Optimist* is a Python agent for conjecturing in graph theory. Building on t
 
 - `notebooks/`: Contains Jupyter notebooks for running the *Optimist* experiment.
 
-## Installation
-
-To install the required dependencies, follow these steps:
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
